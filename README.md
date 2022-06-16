@@ -1,5 +1,5 @@
 
-# Hackathon of Talent Squad (June 2022)
+# Hackathon of Talent Squad (Barcelona-June 2022)
 
 ## Project Intro/Objective
 
@@ -12,7 +12,7 @@ This project was the challenge of the hackathon, which ultimately aims to select
 2. Exploratory Data Analysis.
 3. Screening classification by machine Learning.
 4. Tunning of hyperparameters to optimize the chosen model.
-5. Predict the status for the test data set (supplied without label).
+5. Predict the status for the test data set (supplied without label) with the optimised model.
 
 ## Tools
 
@@ -20,13 +20,14 @@ This project was the challenge of the hackathon, which ultimately aims to select
 * Git & Github
 * Jupyter Notebook
 * Visual Studio Code
+* Libraries: Pandas, Numpy, Seaborn, Matplotlib, Sklearn, Pycaret, Optuna.
 
 ## Getting Started
 
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
+1. Clone this [repo](https://github.com/MarkusHumetus/Hackathon_Talent_Squad.git) (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Use requirements.txt to install all required dependencies. Please note that Pycaret only works properly under Python 3.8
 
-## -- Project Status 
+## Project Status 
 
 [Finished]
 
@@ -34,7 +35,7 @@ Project was completed and submitted for competition in June 2022.
 
 ## Contact
 
-* If you have any comment, doubt, proposal,... don't hesitate to contact me marchumet@gmx.net
+If you have any comment, doubt, proposal,... don't hesitate to contact me marchumet@gmx.net
 
 ## Acknowledgments
 
