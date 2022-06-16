@@ -1,10 +1,10 @@
 
-# Hackathon of Talent Squad (Barcelona-June 2022)
+# [Hackathon of Talent Squad (Barcelona-June 2022)](https://nuwe.io/challenge/talent-squad-data-science-i)
 
 ## Project Intro/Objective
 
 The purpose of this project is to classify the status of a rocket by studing the info collected by six sensors. The initial data set included label column and six numeric columns according to the values of each sensor. Test data set only included the values of the six sensors.
-This project was the challenge of the hackathon, which ultimately aims to select best candidates for future job proposals on the data field.
+This project was the challenge of the hackathon Talent Squad, which ultimately aims to select best candidates for future job proposals on the data field.
 
 ## Methodology
 
@@ -41,7 +41,7 @@ If you have any comment, doubt, proposal,... don't hesitate to contact me marchu
 
 Thanks to the following organisations for the set up of such event which give the junior data scientist oportunities to learn, do networking and hopefully reach a first job in the data field.
 
-![Barccelona_Digital_Talent](https://challenges-asset-files.s3.us-east-2.amazonaws.com/companies/BDT_card.png)
+![Barccelona_Digital_Talent](https://barcelonadigitaltalent.com/app/uploads/sites/3/2020/02/BDT-1.1-POSITIU_2-01.jpg)
 
 ![Mobil_World_Congress](https://challenges-asset-files.s3.us-east-2.amazonaws.com/companies/MWC_card.png)
 
