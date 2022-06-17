@@ -25,9 +25,9 @@ This project was the challenge of the hackathon Talent Squad, which ultimately a
 ## Getting Started
 
 1. Clone this [repo](https://github.com/MarkusHumetus/Hackathon_Talent_Squad.git) (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Use requirements.txt to install all required dependencies. Please note that Pycaret only works properly under Python 3.8
+2. Use requirements.txt to install all required dependencies. Please note that Pycaret 2.3.0 only works properly under Python 3.6-3.8
 
-## Project Status 
+## Project Status
 
 [Finished]
 
