@@ -20,7 +20,7 @@ This project was the challenge of the hackathon Talent Squad, which ultimately a
 * Git & Github
 * Jupyter Notebook
 * Visual Studio Code
-* Libraries: Pandas, Numpy, Seaborn, Matplotlib, Sklearn, Pycaret, Optuna. (Keras )
+* Libraries: Pandas, Numpy, Seaborn, Matplotlib, Sklearn, Pycaret, Optuna. (Keras from Tensorflow was used for some unsuccesful trials, if you are curious you can check the [notebook with trials](https://github.com/MarkusHumetus/Hackathon_Talent_Squad/blob/main/main_NN.ipynb))
 
 ## Getting Started
 
