@@ -3,7 +3,7 @@
 
 ## Project Intro/Objective
 
-The purpose of this project is to classify the status of a rocket by studing the info collected by six sensors. The initial data set included label column and six numeric columns according to the values of each sensor. Test data set only included the values of the six sensors.
+The purpose of this project is to classify the status of a rocket by studing the info collected by six sensors. The initial data set included a label of status column and six numeric columns according to the values of each sensor. Test data set only included the values of the six sensors.
 This project was the challenge of the hackathon Talent Squad, which ultimately aims to select best candidates for future job proposals on the data field.
 
 ## Methodology
@@ -20,7 +20,7 @@ This project was the challenge of the hackathon Talent Squad, which ultimately a
 * Git & Github
 * Jupyter Notebook
 * Visual Studio Code
-* Libraries: Pandas, Numpy, Seaborn, Matplotlib, Sklearn, Pycaret, Optuna.
+* Libraries: Pandas, Numpy, Seaborn, Matplotlib, Sklearn, Pycaret, Optuna. (Keras )
 
 ## Getting Started
 
