@@ -31,11 +31,11 @@ This project was the challenge of the hackathon Talent Squad, which ultimately a
 
 [Finished]
 
-Project was completed and submitted for competition in June 2022.
+Project was completed and submitted for competition in 26th of June 2022.
 
 ## Contact
 
-If you have any comment, doubt, proposal,... don't hesitate to contact me marchumet@gmx.net
+If you have any comment, doubt, proposal,... don't hesitate to contact me by email to marchumet@gmx.net
 
 ## Acknowledgments
 
